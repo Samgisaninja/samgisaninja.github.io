@@ -1,11 +1,11 @@
-Origin: ADD https://samgisaninja.github.io/repo
-Label: ADD https://samgisaninja.github.io/repo
+Origin: Samg_is_a_Ninja's Repo
+Label: Samg_is_a_Ninja's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Please add https://samgisaninja.github.io/repo
+Description: Samg_is_a_Ninja Repo. Drama-free, DRM-free tweak releases.
 
 SHA256:
- 4cf08d510baf33669e86ed5573c169c03b714fc5ef945a79c71a4e9fa7872889 3172 Packages.bz2
+ d18ab5f6dc6e9110a66795871fbe11fbcca811ef23751320ff6b9e7680bc440f 3146 Packages.bz2
