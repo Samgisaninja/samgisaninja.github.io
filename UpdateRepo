@@ -1,0 +1,1 @@
+mv UpdateRepo .git/ && mv motd.plist .git/ && rm -r * && cp -r ../repo/docs/* ./ && mv .git/UpdateRepo ./ && mv .git/motd.plist ./
