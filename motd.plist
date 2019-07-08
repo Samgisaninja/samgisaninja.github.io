@@ -114,7 +114,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>This version of Succession has a bug that prevents the DMG from mounting. Please add https://samgisaninja.github.io to your sources and update Succession to fix this issue. </string>
+			<string>This version of Succession has a bug that prevents the DMG from mounting. Please add https://samgisaninja.github.io/ to your sources and update Succession to fix this issue. </string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -125,7 +125,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>A new version of Succession is available! Please update Succession in Cydia</string>
+			<string>A new version of Succession is available! Please update Succession in Cydia.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
