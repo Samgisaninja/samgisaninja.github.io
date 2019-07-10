@@ -4,15 +4,15 @@
 <dict>
 	<key>1.0</key>
 	<array>
-		<string>Please enter changes here</string>
-		<string>You can enter as many changes as you'd like</string>
-		<string>Just add more strings to this array</string>
+		<string>Initial Release</string>
 	</array>
 	<key>1.1</key>
 	<array>
-		<string>Please enter changes here</string>
-		<string>You can enter as many changes as you'd like</string>
-		<string>Just add more strings to this array</string>
+		<string>Compile for A12</string>
+		<string>CalicoCatalyst: Hook w/ swift</string>
+		<string>CalicoCatalyst: add opts from ASV</string>
+		<string>CalicoCatalyst: Add new method</string>
+		<string>CalicoCatalyst: Make future stuff easier</string>
 	</array>
 </dict>
 </plist>

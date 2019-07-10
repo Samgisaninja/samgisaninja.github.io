@@ -8,12 +8,14 @@
 	</array>
 	<key>1.1-1+debug</key>
 	<array>
-		<string>Fix respring bug</string>
+		<string>fix respring bug</string>
+		<string>change enabled color</string>
 	</array>
 	<key>1.1.1</key>
 	<array>
-		<string>gmoran: A12 support</string>
 		<string>gmoran: Set default state and quit apps when CC toggle is tapped (to reload changes)</string>
+		<string>gmoran: Use SiloToggleModule for easier compiling</string>
+		<string>gmoran: A12 support</string>
 	</array>
 </dict>
 </plist>

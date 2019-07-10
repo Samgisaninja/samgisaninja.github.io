@@ -1,0 +1,52 @@
+<package>
+	<id>com.samgisaninja.nocturnal11</id>
+	<name>nocturnal (iOS 11)</name>
+	<version>1.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>Unknown minimum iOS version</miniOS>
+			<maxiOS>Unknown maximum iOS version</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>This package doesn't require any other packages to be installed</package>
+
+	</dependencies>
+	<shortDescription>Control Center Module for Eclipse!</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		
+    <changes>
+        <version>1.1-1+debug</version>
+        <change>No changes reported for this version.</change>
+    </changes>
+	</changelog>
+	<links>
+		<link>
+			<name>Join the official jailbreak community discord!</name>
+			<url>https://discord.gg/jb</url>
+			<iconclass>fa fa-discord</iconclass>
+		</link>
+		<link>
+			<name>Official jailbreak community on reddit!</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

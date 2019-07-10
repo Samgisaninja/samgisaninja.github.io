@@ -1,0 +1,52 @@
+<package>
+	<id>com.samgisaninja.hidelockicon</id>
+	<name>Hide Lock Icon</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS></maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+
+	</dependencies>
+	<shortDescription>Hides FaceID lock icon, requested by @OodleMyNoodle#6211</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		
+    <changes>
+        <version>1.0.1</version>
+        <change>Add A12 support</change>
+    </changes>
+	</changelog>
+	<links>
+		<link>
+			<name>Join the official jailbreak community discord!</name>
+			<url>https://discord.gg/jb</url>
+			<iconclass>fa fa-discord</iconclass>
+		</link>
+		<link>
+			<name>Official jailbreak community on reddit!</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

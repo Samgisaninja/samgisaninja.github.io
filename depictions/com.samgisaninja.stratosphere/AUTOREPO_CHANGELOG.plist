@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.0</key>
+	<key>0.9</key>
 	<array>
-		<string>Initial Release</string>
+		<string>Initial release</string>
 	</array>
 	<key>1.0.1</key>
 	<array>

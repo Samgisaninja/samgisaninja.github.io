@@ -61,6 +61,7 @@ Section: Tweaks
 Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.chlorophyll
 
 Package: com.samgisaninja.dollarvoting
 Version: 1.0-4+debug
@@ -77,6 +78,7 @@ Section: Tweaks
 Description: Hides the "give gold" button on stock reddit app
 Author: Sam Gardner
 Name: DollarVoting
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.dollarvoting
 
 Package: com.samgisaninja.dollarvoting
 Version: 1.0.1
@@ -125,6 +127,7 @@ Section: Tweaks
 Description: Hides FaceID lock icon, requested by @OodleMyNoodle#6211
 Author: Samg_is_a_Ninja
 Name: Hide Lock Icon
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.hidelockicon
 
 Package: com.samgisaninja.malleus
 Version: 1.1-6+debug
@@ -141,6 +144,7 @@ Section: Tweaks
 Description: iOS 12.1 3D Touch sounds
 Author: Sam Gardner
 Name: malleus
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.malleus
 
 Package: com.samgisaninja.malleus
 Version: 1.1.1
@@ -416,6 +420,7 @@ Section: Themes
 Description: iOS 11-style icon for Cydia
 Author: Sam Gardner <stgardner4@att.net>
 Name: Cydia 11 icon
+Depiction: https://samgisaninja.github.io/depictions/?p=com.yourepo.samgisaninja.cydia11icon
 
 Package: com.yourepo.samgisaninja.extrarecipelauncher
 Version: 3.1.2
@@ -429,6 +434,7 @@ Section: Tweaks
 Description: A substrate launcher and rootfs mounter for the extra_recipe jailbreak.
 Author: Sam Gardner <stgardner4@att.net>
 Name: extra_recipe launcher
+Depiction: https://samgisaninja.github.io/depictions/?p=com.yourepo.samgisaninja.extrarecipelauncher
 
 Package: com.yourepo.samgisaninja.hotdogmanfilteranimationforspringy
 Version: 1.0.2
@@ -443,6 +449,7 @@ Section: Themes
 Description: The popular hot dog man snapchat filter as a springy animation.
 Author: Sam Gardner <stgardner4@att.net>
 Name: Hot Dog Man filter animation for springy
+Depiction: https://samgisaninja.github.io/depictions/?p=com.yourepo.samgisaninja.hotdogmanfilteranimationforspringy
 
 Package: com.yourepo.samgisaninja.percentageanimationforspringy
 Version: 1.1.2
