@@ -7,9 +7,9 @@
 		<key>disabled</key>
 		<integer>0</integer>
 		<key>messageContent</key>
-		<string>Downloads are currently unavailable.\n Succession uses a free API provided by api.ipsw.me to download an IPSW file for your device from Apple. This API just went offline, so succession cannot download IPSWs until this is fixed. **WORKAROUND**: Download an ipsw for your device and place it in /var/mobile/Media/Succession/ipsw.ipsw to continue.</string>
+		<string>WE ALL GOOD IN THE HOOD</string>
 		<key>showMessage</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>warning</key>
 		<integer>0</integer>
 	</dict>
