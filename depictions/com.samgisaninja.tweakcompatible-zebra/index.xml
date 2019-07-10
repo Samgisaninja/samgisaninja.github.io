@@ -1,7 +1,7 @@
 <package>
-	<id>com.samgisaninja.stratosphere</id>
-	<name>stratosphere</name>
-	<version>1.0.1</version>
+	<id>com.samgisaninja.tweakcompatible-zebra</id>
+	<name>TweakCompatible for Zebra</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>Unknown minimum iOS version</miniOS>
@@ -12,15 +12,10 @@
 		<package>This package doesn't require any other packages to be installed</package>
 
 	</dependencies>
-	<shortDescription>Move the dock to the top!</shortDescription>
+	<shortDescription>Adds TweakCompatible to Zebra!</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>TweakCompatible for zebra adds a tweakcompatible cell to Zebra's package information</description>
+		<description>You can file new reports by tapping the "+" icon or view other reports by tapping the "i" icon</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -32,8 +27,8 @@
 	</screenshots>
 	<changelog>
 		        <changes>
-            <version>1.0.1</version>
-            <change>Add A12 support</change>
+            <version>1.0</version>
+            <change>Initial Release</change>
         </changes>
 	</changelog>
 	<links>

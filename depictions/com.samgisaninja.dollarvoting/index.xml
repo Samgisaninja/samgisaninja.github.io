@@ -31,11 +31,10 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		
-    <changes>
-        <version>1.0-4+debug</version>
-        <change>Initial Release</change>
-    </changes>
+		        <changes>
+            <version>1.0-4+debug</version>
+            <change>Initial Release</change>
+        </changes>
 	</changelog>
 	<links>
 		<link>

@@ -1,7 +1,10 @@
 <changelog>
     <changes>
         <version>0.9~b6</version>
-        <change>The developer hasn't entered a changelog for this version.</change>
+        <change>Add MOTD for public beta testing</change>
+        <change>Add custom rsync path specification</change>
+        <change>Add 32-bit slice and postinst</change>
+        <change>Add xerusdesign's icon to package file</change>
     </changes>
     <changes>
         <version>1.1</version>
@@ -46,5 +49,10 @@
         <change>Adds more logging to the restore page</change>
         <change>Fixes bugs when mounting</change>
         <change>Fixes a crash when tapping "Begin restore" on iPads</change>
+    </changes>
+    <changes>
+        <version>1.3.4</version>
+        <change>Automatic mounting when Restore view loads</change>
+        <change>After this update, downloaded DMGs will not be deleted by future updates, only by (re/un)installs, thanks @OothecaPickle</change>
     </changes>
 </changelog>

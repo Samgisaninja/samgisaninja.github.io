@@ -31,11 +31,10 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		
-    <changes>
-        <version>1.2.1</version>
-        <change>Add support for Sileo 0.4b6</change>
-    </changes>
+		        <changes>
+            <version>1.2.1</version>
+            <change>Add support for Sileo 0.4b6</change>
+        </changes>
 	</changelog>
 	<links>
 		<link>

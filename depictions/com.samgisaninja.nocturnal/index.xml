@@ -31,12 +31,11 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		
-    <changes>
-        <version>1.1-1+debug</version>
-        <change>fix respring bug</change>
+		        <changes>
+            <version>1.1-1+debug</version>
+            <change>fix respring bug</change>
         <change>change enabled color</change>
-    </changes>
+        </changes>
 	</changelog>
 	<links>
 		<link>

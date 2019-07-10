@@ -4,9 +4,10 @@
 <dict>
 	<key>0.9~b6</key>
 	<array>
-		<string>Please enter changes here</string>
-		<string>You can enter as many changes as you'd like</string>
-		<string>Just add more strings to this array</string>
+		<string>Add MOTD for public beta testing</string>
+		<string>Add custom rsync path specification</string>
+		<string>Add 32-bit slice and postinst</string>
+		<string>Add xerusdesign's icon to package file</string>
 	</array>
 	<key>1.1</key>
 	<array>
@@ -53,6 +54,11 @@
 		<string>Adds more logging to the restore page</string>
 		<string>Fixes bugs when mounting</string>
 		<string>Fixes a crash when tapping "Begin restore" on iPads</string>
+	</array>
+	<key>1.3.4</key>
+	<array>
+		<string>Automatic mounting when Restore view loads</string>
+		<string>After this update, downloaded DMGs will not be deleted by future updates, only by (re/un)installs, thanks @OothecaPickle</string>
 	</array>
 </dict>
 </plist>
