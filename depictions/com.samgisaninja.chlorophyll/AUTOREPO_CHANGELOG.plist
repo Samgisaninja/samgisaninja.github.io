@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.0</key>
+	<array>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
+	</array>
+	<key>1.1</key>
+	<array>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
+	</array>
+</dict>
+</plist>
