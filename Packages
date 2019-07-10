@@ -410,10 +410,10 @@ Maintainer: Samg_is_a_Ninja
 Installed-Size: 256
 Depends: mobilesubstrate, xyz.willy.zebra
 Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.0_iphoneos-arm.deb
-Size: 62344
-MD5sum: c9b8e1cede686f8cdb3d9ed09729cf47
-SHA1: 287103f1dc46ad50a1a3866e2b4629c9a14ce9fc
-SHA256: ce19b4a222e624679bfc17d8626bb2c300921bf5b5fb2312f70d6bf42847c271
+Size: 66552
+MD5sum: 4282781925469125d1f2c85dd2ceb8c2
+SHA1: 14b4ee12d73ef98251650eef9ee8fbd1c5cf0311
+SHA256: ba57a2608f59228bf0eead8914e9ac5d2f0f4981713aa74beafbd165039bc210
 Section: Tweaks
 Description: Adds TweakCompatible to Zebra!
 Author: Samg_is_a_Ninja
