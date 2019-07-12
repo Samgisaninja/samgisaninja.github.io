@@ -420,6 +420,23 @@ Author: Samg_is_a_Ninja
 Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
 Name: TweakCompatible for Zebra
 
+Package: com.samgisaninja.tweakcompatible-zebra
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: mobilesubstrate, xyz.willy.zebra
+Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1_iphoneos-arm.deb
+Size: 84360
+MD5sum: 2c845c2af0adfed04c9ba1f94d25ebe9
+SHA1: 528a4a347adc00f99abf79a6ce0cc82e2c13dd7f
+SHA256: 121e9267904a1dcbe98af42ea271663c1f49ec5368d0f125b53596ba3115d5d1
+Section: Tweaks
+Description: Adds TweakCompatible to Zebra!
+Author: Samg_is_a_Ninja
+Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
+Icon: file:///Library/tweakcompatible-zebra/icon.png
+Name: TweakCompatible for Zebra
+
 Package: com.yourepo.samgisaninja.cydia11icon
 Version: 1.0.2
 Architecture: iphoneos-arm

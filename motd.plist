@@ -29,16 +29,16 @@
 	</dict>
 	<key>iOSVersions</key>
 	<dict>
-		<key>16C5050a</key>
+		<key>16E227</key>
 		<dict>
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Due to IPSW.me&apos;s API, Succession&apos;s downloader does not currently support beta versions of iOS. You will need to place an IPSW for your device/version in /var/mobile/Media/Succession/ipsw.ipsw</string>
+			<string>Succession has not yet been confirmed to work on this iOS version, so pretty please, only use this if you really HAVE TO. Thanks, -Sam</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>

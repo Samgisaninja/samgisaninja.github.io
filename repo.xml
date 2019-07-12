@@ -1,9 +1,19 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Donate</name>
+			<url>https://paypal.me/SamGardner4</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
 			<name>View source code for all my projects</name>
 			<url>https://github.com/Samgisaninja</url>
 			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Send me a DM on reddit</name>
+			<url>https://reddit.com/u/Samg_is_a_Ninja</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</footerlinks>
 </repo>

@@ -6,5 +6,9 @@
 	<array>
 		<string>Initial Release</string>
 	</array>
+	<key>1.1</key>
+	<array>
+		<string>Support for zebra beta18</string>
+	</array>
 </dict>
 </plist>
