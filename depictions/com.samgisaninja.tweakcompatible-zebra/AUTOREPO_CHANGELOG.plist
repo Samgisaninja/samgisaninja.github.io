@@ -10,5 +10,11 @@
 	<array>
 		<string>Support for zebra beta18</string>
 	</array>
+	<key>1.1.2</key>
+	<array>
+		<string>Fixes .DS_Store error</string>
+		<string>Uses a better implementation for getting package versions</string>
+		<string>In-app safari for adding reports</string>
+	</array>
 </dict>
 </plist>
