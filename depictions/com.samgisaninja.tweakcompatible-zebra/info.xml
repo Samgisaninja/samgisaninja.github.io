@@ -10,11 +10,17 @@
 	</compatibility>
 	<dependencies>
 		<package>This package doesn't require any other packages to be installed</package>
+
 	</dependencies>
 	<shortDescription>Adds TweakCompatible to Zebra!</shortDescription>
 	<descriptionlist>
-		<description>TweakCompatible for zebra adds a tweakcompatible cell to Zebra's package information</description>
-		<description>You can file new reports by tapping the "+" icon or view other reports by tapping the "i" icon</description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -25,11 +31,11 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<changes>
+		        <changes>
             <version>1.1.2</version>
-        	<change>Fixes .DS_Store error</change>
-        	<change>Uses a better implementation for getting package versions</change>
-        	<change>In-app safari for adding reports</change>
+            <change>Fixes .DS_Store error</change>
+        <change>Uses a better implementation for getting package versions</change>
+        <change>In-app safari for adding reports</change>
         </changes>
 	</changelog>
 	<links>
