@@ -65,5 +65,11 @@
 		<string>Faster zip extraction</string>
 		<string>Use hdik for extraction to prepare for iOS 9.X support</string>
 	</array>
+	<key>1.3.6</key>
+	<array>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
+	</array>
 </dict>
 </plist>

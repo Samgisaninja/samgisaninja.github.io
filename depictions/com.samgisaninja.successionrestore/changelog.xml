@@ -60,4 +60,8 @@
         <change>Faster zip extraction</change>
         <change>Use hdik for extraction to prepare for iOS 9.X support</change>
     </changes>
+    <changes>
+        <version>1.3.6</version>
+        <change>The developer hasn't entered a changelog for this version.</change>
+    </changes>
 </changelog>

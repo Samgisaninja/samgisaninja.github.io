@@ -1,7 +1,7 @@
 <package>
 	<id>com.samgisaninja.successionrestore</id>
 	<name>Succession</name>
-	<version>1.3.5</version>
+	<version>1.3.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>Unknown minimum iOS version</miniOS>
@@ -32,9 +32,8 @@
 	</screenshots>
 	<changelog>
 		        <changes>
-            <version>1.3.5</version>
-            <change>Faster zip extraction</change>
-        <change>Use hdik for extraction to prepare for iOS 9.X support</change>
+            <version>1.3.6</version>
+            <change>The developer hasn't entered a changelog for this version.</change>
         </changes>
 	</changelog>
 	<links>
