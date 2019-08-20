@@ -32,13 +32,13 @@
 		<key>16G77</key>
 		<dict>
 			<key>disabled</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Succession has not yet been confirmed to work on your iOS version. Please check back in a few days. </string>
+			<string>WE ALL GOOD IN THE HOOD</string>
 			<key>showMessage</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>warning</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>
@@ -92,7 +92,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it "ipsw.ipsw" (without quotes) or wait for an update to Succesion from Cydia.</string>
+			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it &quot;ipsw.ipsw&quot; (without quotes) or wait for an update to Succesion from Cydia.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -103,7 +103,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it "ipsw.ipsw" (without quotes) or wait for an update to Succesion from Cydia.</string>
+			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it &quot;ipsw.ipsw&quot; (without quotes) or wait for an update to Succesion from Cydia.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -126,6 +126,17 @@
 			<integer>0</integer>
 			<key>messageContent</key>
 			<string>A new version of Succession is available! Please update Succession in Cydia</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>0</integer>
+		</dict>
+		<key>1.3.5</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>A new version of Succession is available!\nPlease add my repo, https://samgisaninja.github.io/ and install Succession 1.3.6.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
