@@ -7,9 +7,9 @@
 		<key>disabled</key>
 		<integer>0</integer>
 		<key>messageContent</key>
-		<string>WE ALL GOOD IN THE HOOD</string>
+		<string>If you&apos;re using the new substitute-based unc0ver: Succession will hang during the restore process on &quot;/usr/...&quot;. Once Succession gets to &quot;/usr/...&quot;, wait ~5 minutes, then force reboot and erase all content and settings manually. I hope this issue will be resolved soon, thanks for your patience.</string>
 		<key>showMessage</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>warning</key>
 		<integer>0</integer>
 	</dict>
