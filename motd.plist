@@ -142,6 +142,17 @@
 			<key>warning</key>
 			<integer>0</integer>
 		</dict>
+		<key>1.3.8</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>If you&apos;re using the new substitute-based unc0ver: Please update succession to version 1.4 from https://samgisaninja.github.io</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
