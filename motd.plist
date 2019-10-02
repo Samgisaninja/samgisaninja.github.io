@@ -153,6 +153,17 @@
 			<key>warning</key>
 			<integer>0</integer>
 		</dict>
+		<key>1.4</key>
+		<dict>
+			<key>disabled</key>
+			<integer>1</integer>
+			<key>messageContent</key>
+			<string>Hi! I&apos;ve had two reports of bootloops on this version in the past 24 hours, therefore this version is disabled until I can investigate. If you need to use succession, please add https://samgisaninja.github.io/ and downgrade to 1.3.8 or lower.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
