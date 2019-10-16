@@ -89,5 +89,11 @@
 		<string>You can enter as many changes as you'd like</string>
 		<string>Just add more strings to this array</string>
 	</array>
+	<key>1.4.1</key>
+	<array>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
+	</array>
 </dict>
 </plist>
