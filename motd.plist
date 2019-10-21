@@ -147,7 +147,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>If you&apos;re using the new substitute-based unc0ver: Please update succession to version 1.4 from https://samgisaninja.github.io</string>
+			<string>If you&apos;re using substitute-based unc0ver: the app will hang when rebuilding /usr.\n Wait about 5 minutes, then force reboot and manually erase all content and settings, or upgrade to latest succession.</string>
 			<key>showMessage</key>
 			<integer>0</integer>
 			<key>warning</key>
@@ -158,7 +158,7 @@
 			<key>disabled</key>
 			<integer>1</integer>
 			<key>messageContent</key>
-			<string>Please don&apos;t use this version of Succession, it is broken. I will have an update out soon, I recommend using version 1.3.8 or 1.3.4 if you really need to.</string>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version (1.4.1) is safe to use, 1.3.8 should also be safe to use.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
