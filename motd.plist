@@ -29,16 +29,82 @@
 	</dict>
 	<key>iOSVersions</key>
 	<dict>
-		<key>16G77</key>
+		<key>17A577</key>
 		<dict>
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>WE ALL GOOD IN THE HOOD</string>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
 			<key>showMessage</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17A844</key>
+		<dict>
+			<key>disabled</key>
 			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17A854</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17A860</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17A878</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17B84</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>17B102</key>
+		<dict>
+			<key>disabled</key>
+			<integer>0</integer>
+			<key>messageContent</key>
+			<string>Succession has yet to be tested on the new checkra1n jailbreak. I take no responsibility if you decide to use it.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>
