@@ -1,64 +1,39 @@
 <changelog>
     <changes>
-        <version>0.9~b6</version>
-        <change>Add MOTD for public beta testing</change>
-        <change>Add custom rsync path specification</change>
-        <change>Add 32-bit slice and postinst</change>
-        <change>Add xerusdesign's icon to package file</change>
-    </changes>
-    <changes>
         <version>1.1</version>
-        <change>Adds custom IPSW path specification in Succession's settings</change>
-        <change>Fixes a bug where /var/mobile/Media/Succession/ did not have correct permissions for some users</change>
-        <change>If an IPSW is present in /var/mobile/Media/Succession, but it is not named "ipsw.ipsw", an alert will be presented allowing users to automatically rename it.</change>
-        <change>Adds profile pictures to credits page</change>
-        <change>Adds proactive credit to MidnightChips for upcoming APFS snapshot features</change>
-    </changes>
-    <changes>
-        <version>1.2</version>
         <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.2.2</version>
-        <change>Completely re-write mount code to make it work on all devices</change>
-        <change>Improves clean up to prevent deleting /tmp</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.2.3</version>
-        <change>Fixes a bug with the settings page not performing the correct action from the tableview</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.2.4</version>
-        <change>Fixes a UI bug where a label was off screen during restore</change>
-        <change>Creates mountpoint if it doesn’t exist</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3</version>
-        <change>Adds the ability to create a new orig-fs snapshot of the restored filesystem</change>
-        <change>Adds the ability to create a "succession-prerestore" snapshot of the filesystem before restoring to allow undoing the restore at a later time</change>
-        <change>Adds support for A12 devices</change>
-        <change>Fixed a few UI bugs</change>
-        <change>Better performance when mounting</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3.2</version>
-        <change>Resolves incompatibilities with sbingner's uikittools</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3.3</version>
-        <change>Adds more logging to the restore page</change>
-        <change>Fixes bugs when mounting</change>
-        <change>Fixes a crash when tapping "Begin restore" on iPads</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3.4</version>
-        <change>Automatic mounting when Restore view loads</change>
-        <change>After this update, downloaded DMGs will not be deleted by future updates, only by (re/un)installs, thanks @OothecaPickle</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3.5</version>
-        <change>Faster zip extraction</change>
-        <change>Use hdik for extraction to prepare for iOS 9.X support</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>1.3.6</version>
@@ -82,10 +57,6 @@
     </changes>
     <changes>
         <version>1.4.2</version>
-        <change>The developer hasn't entered a changelog for this version.</change>
-    </changes>
-    <changes>
-        <version>1.4.3</version>
         <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
 </changelog>

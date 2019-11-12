@@ -2,20 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.0-1+debug</key>
-	<array>
-		<string>Initial Release</string>
-	</array>
 	<key>1.1-1+debug</key>
 	<array>
-		<string>fix respring bug</string>
-		<string>change enabled color</string>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
 	</array>
 	<key>1.1.1</key>
 	<array>
-		<string>gmoran: Set default state and quit apps when CC toggle is tapped (to reload changes)</string>
-		<string>gmoran: Use SiloToggleModule for easier compiling</string>
-		<string>gmoran: A12 support</string>
+		<string>Please enter changes here</string>
+		<string>You can enter as many changes as you'd like</string>
+		<string>Just add more strings to this array</string>
 	</array>
 </dict>
 </plist>

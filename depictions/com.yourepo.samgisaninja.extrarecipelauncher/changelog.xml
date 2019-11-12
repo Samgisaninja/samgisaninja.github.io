@@ -1,6 +1,0 @@
-<changelog>
-    <changes>
-        <version>3.1.2</version>
-        <change>Ask for root password instead of exiting when run as mobile</change>
-    </changes>
-</changelog>

@@ -1,13 +1,7 @@
 <changelog>
     <changes>
-        <version>(null)</version>
-        <change>(null)</change>
-    </changes>
-    <changes>
         <version>1.1.1</version>
-        <change>gmoran: Set default state and quit apps when CC toggle is tapped (to reload changes)</change>
-        <change>gmoran: Use SiloToggleModule for easier compiling</change>
-        <change>gmoran: A12 support</change>
+        <change>The developer hasn't entered a changelog for this version.</change>
     </changes>
     <changes>
         <version>(null)</version>
