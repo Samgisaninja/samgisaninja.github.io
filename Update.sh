@@ -1,7 +1,7 @@
 #!/bin/bash
 rm Packages
-dpkg-scanpackages -m ./debs > Packages
 rm -f Packages.bz2
+dpkg-scanpackages -m ./debs > Packages
 ./UpdateDepiction
 cp Packages Packages2
 bzip2 Packages
