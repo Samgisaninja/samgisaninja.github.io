@@ -456,23 +456,6 @@ Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession
 
 Package: com.samgisaninja.successionrestore
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4_iphoneos-arm.deb
-Size: 1322234
-MD5sum: 8dbcbbe55a4f19fdeee08f33217f4bb5
-SHA1: fe7a4d1c3a7747df8a6c570700c37e44c1f52742
-SHA256: 4c7e1b3c3285d3b2f58f505a1211096aa103796949ed3a791923872765fff87b
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
-Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Name: Succession
-
-Package: com.samgisaninja.successionrestore
 Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja
@@ -538,58 +521,6 @@ Section: Control Center (Modules)
 Description: Control Center module for Firebird emulator
 Author: Sam Gardner
 Name: thaliana
-
-Package: com.samgisaninja.tweakcompatible-zebra
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Installed-Size: 256
-Depends: mobilesubstrate, xyz.willy.zebra
-Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.0_iphoneos-arm.deb
-Size: 66552
-MD5sum: 4282781925469125d1f2c85dd2ceb8c2
-SHA1: 14b4ee12d73ef98251650eef9ee8fbd1c5cf0311
-SHA256: ba57a2608f59228bf0eead8914e9ac5d2f0f4981713aa74beafbd165039bc210
-Section: Tweaks
-Description: Adds TweakCompatible to Zebra!
-Author: Samg_is_a_Ninja
-Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
-Name: TweakCompatible for Zebra
-
-Package: com.samgisaninja.tweakcompatible-zebra
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: mobilesubstrate, xyz.willy.zebra
-Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1_iphoneos-arm.deb
-Size: 135052
-MD5sum: fe61f777d604e097c3b262cf5a5aab29
-SHA1: 6e9fe1413f4c722a2d032cfc065b0018185090f9
-SHA256: 2e349dcbdda3cd0fc39fb124b6fba5b5e1de33b3464a2cd96b33ff72a5ddadf8
-Section: Tweaks
-Description: Adds TweakCompatible to Zebra!
-Author: Samg_is_a_Ninja
-Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
-Icon: file:///Library/tweakcompatible-zebra/icon.png
-Name: TweakCompatible for Zebra
-
-Package: com.samgisaninja.tweakcompatible-zebra
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Installed-Size: 432
-Depends: mobilesubstrate, xyz.willy.zebra
-Filename: ./debs/com.samgisaninja.tweakcompatible-zebra_1.1.2_iphoneos-arm.deb
-Size: 138274
-MD5sum: 8050b06b94c267e4bad265417a970487
-SHA1: cfd0b9474d6a342b76109d50427548c7491a5f88
-SHA256: 161569018138100ae4b13dd8bccd93442d48a1b180d65b58c899283eff26cb04
-Section: Tweaks
-Description: Adds TweakCompatible to Zebra!
-Author: Samg_is_a_Ninja
-Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.tweakcompatible-zebra
-Icon: file:///Library/tweakcompatible-zebra/icon.png
-Name: TweakCompatible for Zebra
 
 Package: com.samgisaninja.tweakcompatible-zebra
 Version: 1.1.3
