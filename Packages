@@ -14,6 +14,22 @@ Author: Samg_is_a_Ninja
 Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession [beta]
 
+Package: com.samgisaninja.SuccessionRestore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.SuccessionRestore_1.1_iphoneos-arm.deb
+Size: 2266464
+MD5sum: f8c040534505e140fd4891835bcd31d5
+SHA1: 258270005f5c10866717092312c38847f98786d2
+SHA256: 47166593348278c31be3507fc3e07f2d2863c291d4b5c20e2b3f180766459e67
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
 Package: com.samgisaninja.chlorophyll
 Version: 1.0
 Architecture: iphoneos-arm
@@ -253,6 +269,23 @@ SHA256: 5a6ada1440d2c8b01e7b31a649cd2deb674e3a16acf3f7ddf49e4766d9096a69
 Section: Tweaks
 Description: Move the dock to the top!
 Author: Samg_is_a_Ninja
+Name: stratosphere
+
+Package: com.samgisaninja.stratosphere
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.samgisaninja.stratosphere_1.1_iphoneos-arm.deb
+Size: 60834
+MD5sum: 5681632fc63b2b86309e728817af06c6
+SHA1: 5f050938431a1b63316de0081a9f2bedac31a895
+SHA256: 5abc686e8a3ca4f0c62bdf49e08a4ef783f1e61d7f7d97848c70127320b7a5f7
+Section: Tweaks
+Description: Move the dock to the top!
+Author: Samg_is_a_Ninja
+Icon: file:///Library/PreferenceBundles/stratosphereprefs.bundle/icon@3x.png
 Name: stratosphere
 
 Package: com.samgisaninja.successionrestore
