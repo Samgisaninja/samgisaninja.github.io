@@ -7,9 +7,9 @@
 		<key>disabled</key>
 		<integer>0</integer>
 		<key>messageContent</key>
-		<string>WE ALL GOOD IN THE HOOD</string>
+		<string>Apple has apparently pulled several old IPSWs.\nUnfortunately this will break Succession&apos;s downloader, and I don&apos;t know any reliable third party IPSW hosts.\n I seriously hope this is a bug, if this is intentional, Succession will be very difficult to use.</string>
 		<key>showMessage</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>warning</key>
 		<integer>0</integer>
 	</dict>
