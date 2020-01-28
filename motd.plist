@@ -164,6 +164,39 @@
 			<key>warning</key>
 			<integer>1</integer>
 		</dict>
+		<key>1.4.8</key>
+		<dict>
+			<key>disabled</key>
+			<integer>1</integer>
+			<key>messageContent</key>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version (1.4.11) is safe to use.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>1.4.9</key>
+		<dict>
+			<key>disabled</key>
+			<integer>1</integer>
+			<key>messageContent</key>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version (1.4.11) is safe to use.</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
+		<key>1.4.10</key>
+		<dict>
+			<key>disabled</key>
+			<integer>1</integer>
+			<key>messageContent</key>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version (1.4.11) is safe to use</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+			<key>warning</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
