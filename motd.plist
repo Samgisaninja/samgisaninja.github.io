@@ -5,13 +5,13 @@
 	<key>all</key>
 	<dict>
 		<key>disabled</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>messageContent</key>
-		<string>I made an oopsie and accidentally committed test code, succession probably wont work for anyone at the moment, I&apos;ll release an update shortly</string>
+		<string>WE ALL GOOD IN THE HOOD</string>
 		<key>showMessage</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>warning</key>
-		<integer>1</integer>
+		<integer>0</integer>
 	</dict>
 	<key>deviceModels</key>
 	<dict>
@@ -147,11 +147,11 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>If you&apos;re using substitute-based unc0ver: the app will hang when rebuilding /usr.\n Wait about 5 minutes, then force reboot and manually erase all content and settings, or upgrade to latest succession.</string>
+			<string>If you&apos;re trying to use this as some sort of &apos;downgrade/iCloud bypass&apos; tutorial: don&apos;t. Please use the latest version</string>
 			<key>showMessage</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>warning</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>1.4</key>
 		<dict>
