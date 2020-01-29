@@ -490,22 +490,6 @@ Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession
 
 Package: com.samgisaninja.successionrestore
-Version: 1.4.10
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.10_iphoneos-arm.deb
-Size: 1328650
-MD5sum: 9351ab0cf3f068770e999f45a2452966
-SHA1: 655aa82b83e85fb1f27c2027fa4b43e9e8381ed6
-SHA256: 87c7eeb0fc95896a6ecb5bceb0ab026411857db3b64e95d393ae57781cb95da8
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Name: Succession
-
-Package: com.samgisaninja.successionrestore
 Version: 1.4.11
 Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja
@@ -620,38 +604,6 @@ Section: Utilities
 Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
 Depiction: https://samgisaninja.github.io/depictions/?p=com.samgisaninja.successionrestore
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Name: Succession
-
-Package: com.samgisaninja.successionrestore
-Version: 1.4.8
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.8_iphoneos-arm.deb
-Size: 1328302
-MD5sum: 37dc39ca13658dec76218a9533501191
-SHA1: 6c128b90ba4d73e8a176959f68219c30db08d3ba
-SHA256: 1e49bb178a89591c11c2ab799114cc500cae9261358ee7dcff4572fb82193144
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
-Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
-Name: Succession
-
-Package: com.samgisaninja.successionrestore
-Version: 1.4.9
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.9_iphoneos-arm.deb
-Size: 1328468
-MD5sum: e6f4aad6f9a2755f7730322eba360346
-SHA1: a763589627e2e9c8b0cd94ae13e01231b17c30aa
-SHA256: 571fad8b99901e89e87934c91fa043513d935c22973378a96e58ff265896259a
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
 Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession
 
