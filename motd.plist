@@ -15,38 +15,16 @@
 	</dict>
 	<key>deviceModels</key>
 	<dict>
-		<key>iPhone12,1</key>
-		<dict>
-			<key>disabled</key>
-			<integer>0</integer>
-			<key>messageContent</key>
-			<string>Known issue: on A13 devices, succession always uses “system data only/restore rootfs” mode. This will be handled in a future update</string>
-			<key>showMessage</key>
-			<integer>1</integer>
-			<key>warning</key>
-			<integer>1</integer>
-		</dict>
-		<key>iPhone12,3</key>
-		<dict>
-			<key>disabled</key>
-			<integer>0</integer>
-			<key>messageContent</key>
-			<string>Known issue: on A13 devices, succession always uses “system data only/restore rootfs” mode. This will be handled in a future update</string>
-			<key>showMessage</key>
-			<integer>1</integer>
-			<key>warning</key>
-			<integer>1</integer>
-		</dict>
 		<key>iPhone12,5</key>
 		<dict>
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Known issue: on A13 devices, succession always uses “system data only/restore rootfs” mode. This will be handled in a future update</string>
+			<string>WE ALL GOOD IN THE HOOD</string>
 			<key>showMessage</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>warning</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>iOSVersions</key>
@@ -114,7 +92,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it "ipsw.ipsw" (without quotes) or wait for an update to Succesion from Cydia.</string>
+			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it &quot;ipsw.ipsw&quot; (without quotes) or wait for an update to Succesion from Cydia.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -125,7 +103,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it "ipsw.ipsw" (without quotes) or wait for an update to Succesion from Cydia.</string>
+			<string>A small number of users are encountering a bug where the automatic downloader fails due to a permissions error. If you are affected, please provide an IPSW for your device/iOS version to /var/mobile/Media/Succession/ and rename it &quot;ipsw.ipsw&quot; (without quotes) or wait for an update to Succesion from Cydia.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -169,7 +147,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>If you're trying to use this as some sort of 'downgrade/iCloud bypass' tutorial: don't. Please use the latest version</string>
+			<string>If you&apos;re trying to use this as some sort of &apos;downgrade/iCloud bypass&apos; tutorial: don&apos;t. Please use the latest version</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -180,7 +158,7 @@
 			<key>disabled</key>
 			<integer>1</integer>
 			<key>messageContent</key>
-			<string>Please don't use this version of Succession, it is broken. The latest version (1.4.1) is safe to use, 1.3.8 should also be safe to use.</string>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version (1.4.1) is safe to use, 1.3.8 should also be safe to use.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -191,7 +169,7 @@
 			<key>disabled</key>
 			<integer>1</integer>
 			<key>messageContent</key>
-			<string>Please don't use this version of Succession, it is broken. The latest version (1.4.11) is safe to use</string>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version is safe to use</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -202,7 +180,7 @@
 			<key>disabled</key>
 			<integer>1</integer>
 			<key>messageContent</key>
-			<string>Please don't use this version of Succession, it is broken. The latest version (1.4.11) is safe to use.</string>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version is safe to use.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
@@ -213,7 +191,7 @@
 			<key>disabled</key>
 			<integer>1</integer>
 			<key>messageContent</key>
-			<string>Please don't use this version of Succession, it is broken. The latest version (1.4.11) is safe to use.</string>
+			<string>Please don&apos;t use this version of Succession, it is broken. The latest version is safe to use.</string>
 			<key>showMessage</key>
 			<integer>1</integer>
 			<key>warning</key>
