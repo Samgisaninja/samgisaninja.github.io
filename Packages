@@ -511,10 +511,10 @@ Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja
 Depends: firmware-sbin, rsync
 Filename: ./debs/com.samgisaninja.successionrestore_1.4.12_iphoneos-arm.deb
-Size: 1388036
-MD5sum: 45066378aa0a6e1bb88f1275f7bc22d0
-SHA1: a3303094610cc7ce4f8dbea96cce65fe217c696a
-SHA256: 4d4d6b039f32ebff6952d06e02bcb118c4b6bbc3458ff77e8364bb24b3da7e16
+Size: 1388088
+MD5sum: 15fc3fa0cd1b23fa2123b41b3ccbe7d7
+SHA1: 13fb6382fa4600f865e260e6fc2a1c69ab2b2bb8
+SHA256: 7e0e5504654dd82def467766932cff6139b4ae72108c25675093b85de050b972
 Section: Utilities
 Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
