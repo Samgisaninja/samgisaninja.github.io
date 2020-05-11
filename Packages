@@ -522,6 +522,22 @@ Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
 Name: Succession
 
 Package: com.samgisaninja.successionrestore
+Version: 1.4.14
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.14_iphoneos-arm.deb
+Size: 1377792
+MD5sum: e4a8f4c7904873d96cf27d5d1cbce087
+SHA1: 469616dfd9995c9a70434a2ffa988a581d33c0ae
+SHA256: 32f672257f9d1daffafa96970d9fd06201d9f8a7c5e286b81a207f477ec665b5
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/SuccessionRestore.app/AppIcon60x60@3x.png
+Name: Succession
+
+Package: com.samgisaninja.successionrestore
 Version: 1.4.2
 Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja
