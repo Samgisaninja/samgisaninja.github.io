@@ -46,6 +46,22 @@ Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
 
+Package: com.samgisaninja.danaus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.danaus_1.0_iphoneos-arm.deb
+Size: 3322
+MD5sum: 60816e3c7468e08e4c29110e085722b8
+SHA1: a2e7eb3db7edf5958f0a1f20fd279b5a84ae1379
+SHA256: a478094e5edb28cc0d28af9baf2cbdb3ef78738f8ebd06ead40f521308c3a71e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Samg_is_a_Ninja
+Name: danaus
+
 Package: com.samgisaninja.dollarvoting
 Version: 1.0-4+debug
 Architecture: iphoneos-arm
