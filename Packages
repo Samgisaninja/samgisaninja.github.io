@@ -62,6 +62,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Samg_is_a_Ninja
 Name: danaus
 
+Package: com.samgisaninja.danaus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./debs/com.samgisaninja.danaus_1.1_iphoneos-arm.deb
+Size: 10052
+MD5sum: e3226e5f9028edbcebecd950822741a5
+SHA1: 9b210f0aae070e97529b6c200aa09d1e1008c114
+SHA256: 78b341e4023aca96a228d24527d959400bfa7a502fba4557330e61e044a260a8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Samg_is_a_Ninja
+Name: danaus
+
 Package: com.samgisaninja.dollarvoting
 Version: 1.0-4+debug
 Architecture: iphoneos-arm
