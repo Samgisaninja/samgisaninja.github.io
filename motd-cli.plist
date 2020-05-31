@@ -48,7 +48,7 @@
 			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
-			<string>WE ALL GOOD IN THE GOOD</string>
+			<string>No MOTD</string>
 			<key>showMessage</key>
 			<integer>0</integer>
 			<key>warning</key>
