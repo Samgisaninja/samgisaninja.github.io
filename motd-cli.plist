@@ -28,23 +28,23 @@
 		<key>16G77</key>
 		<dict>
 			<key>disabled</key>
+			<integer>1</integer>
+			<key>messageContent</key>
+			<string>Test disable iOS</string>
+			<key>showMessage</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>successionVersions</key>
+	<dict>
+		<key>1.0</key>
+		<dict>
+			<key>disabled</key>
 			<integer>0</integer>
 			<key>messageContent</key>
 			<string>No MOTD</string>
 			<key>showMessage</key>
 			<integer>0</integer>
-		</dict>
-	</dict>
-	<key>successionVersions</key>
-	<dict>
-		<key>1.0~alpha1</key>
-		<dict>
-			<key>disabled</key>
-			<integer>1</integer>
-			<key>messageContent</key>
-			<string>Test disable version</string>
-			<key>showMessage</key>
-			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>
