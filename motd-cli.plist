@@ -13,14 +13,14 @@
 	</dict>
 	<key>deviceModels</key>
 	<dict>
-		<key>iPhone12,5</key>
+		<key>iPhone6,1</key>
 		<dict>
 			<key>disabled</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>messageContent</key>
-			<string>No MOTD</string>
+			<string>Test disable device</string>
 			<key>showMessage</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>iOSVersions</key>
@@ -28,11 +28,11 @@
 		<key>16G77</key>
 		<dict>
 			<key>disabled</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Test disable iOS</string>
+			<string>No MOTD</string>
 			<key>showMessage</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>
