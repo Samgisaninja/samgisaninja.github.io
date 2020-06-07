@@ -5,13 +5,11 @@
 	<key>all</key>
 	<dict>
 		<key>disabled</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>messageContent</key>
-		<string>No MOTD</string>
+		<string>test all mode disable</string>
 		<key>showMessage</key>
-		<integer>0</integer>
-		<key>warning</key>
-		<integer>0</integer>
+		<integer>1</integer>
 	</dict>
 	<key>deviceModels</key>
 	<dict>
@@ -22,8 +20,6 @@
 			<key>messageContent</key>
 			<string>No MOTD</string>
 			<key>showMessage</key>
-			<integer>0</integer>
-			<key>warning</key>
 			<integer>0</integer>
 		</dict>
 	</dict>
@@ -37,8 +33,6 @@
 			<string>No MOTD</string>
 			<key>showMessage</key>
 			<integer>0</integer>
-			<key>warning</key>
-			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>
@@ -50,8 +44,6 @@
 			<key>messageContent</key>
 			<string>No MOTD</string>
 			<key>showMessage</key>
-			<integer>0</integer>
-			<key>warning</key>
 			<integer>0</integer>
 		</dict>
 	</dict>
