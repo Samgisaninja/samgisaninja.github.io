@@ -16,11 +16,11 @@
 		<key>iPhone6,1</key>
 		<dict>
 			<key>disabled</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>messageContent</key>
-			<string>Test disable device</string>
+			<string>No MOTD</string>
 			<key>showMessage</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>iOSVersions</key>
