@@ -238,6 +238,22 @@ Description: Control Center Module for Eclipse!
 Author: Samg_is_a_Ninja
 Name: nocturnal (iOS 11)
 
+Package: com.samgisaninja.nslogify-ios
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 196
+Filename: ./debs/com.samgisaninja.nslogify-ios_1.1_iphoneos-arm.deb
+Size: 7812
+MD5sum: bc5ee13521fa1c640feeadf45d333c34
+SHA1: b49835a586cb35d2919c765284de166702c969ef
+SHA256: ed5b443d5b7f7ed925031a64c4a306b4b28b429511b8c9d4fe3cda9c0036978e
+Section: System
+Description: Objective-C based recreation of logify.pl, uses NSLog instead of %log
+Tag: role::hacker
+Author: Samg_is_a_Ninja
+Name: nslogify-ios
+
 Package: com.samgisaninja.sillyo
 Version: 1.2.1
 Architecture: iphoneos-arm
