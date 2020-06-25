@@ -29,16 +29,16 @@
 	</dict>
 	<key>iOSVersions</key>
 	<dict>
-		<key>16G77</key>
+		<key>18A5301v</key>
 		<dict>
 			<key>disabled</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>messageContent</key>
-			<string>No MOTD</string>
+			<string>Succession has not yet been confirmed to work on your iOS version and is therefore disabled.</string>
 			<key>showMessage</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>warning</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>successionVersions</key>
