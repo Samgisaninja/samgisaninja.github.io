@@ -7,9 +7,9 @@
 		<key>disabled</key>
 		<integer>0</integer>
 		<key>messageContent</key>
-		<string>No MOTD</string>
+		<string>Succession is no longer actively maintained. While it has been thoroughly tested on iOS 13.5, it may not work on future versions, and I am no longer updating it. USE AT YOUR OWN RISK, NO WARRANTY PROVIDED.</string>
 		<key>showMessage</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>warning</key>
 		<integer>0</integer>
 	</dict>
